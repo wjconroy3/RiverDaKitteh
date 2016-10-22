@@ -1,0 +1,34 @@
+#body {
+	background-image: url(background.jpg);
+}
+
+.title {
+	font-family: Helvetica;
+	border: 2px solid black;
+	background-color: white; 
+}
+
+.textbox {
+	font-family: Helvetica;
+	border: 2px solid black;
+	padding: 2px;
+	background-color: white;
+}
+
+#table{
+	font-family: Helvetica;
+	background-color: white;
+}
+
+#align {
+	font-family: Helvetica;
+	text-align: center;
+	border: 2px solid black;
+	background-color: white; 
+}
+
+{
+	background-image: url(food.jpg);
+	background-repeat:no-repeat;
+	background-position: center center;
+}
